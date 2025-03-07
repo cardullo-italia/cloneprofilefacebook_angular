@@ -1,0 +1,30 @@
+.cover {
+    position:relative;
+    width:1149px;
+    height:450px;
+    border-radius: 10px;
+}
+
+img{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.buttonModFoto{
+    position:absolute;
+    right: 40px;
+    bottom:20px;
+    padding:10px;
+    font-weight:500;
+    border-radius: 5px;
+    border:0;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    justify-items: center;
+    align-items: center;
+}
