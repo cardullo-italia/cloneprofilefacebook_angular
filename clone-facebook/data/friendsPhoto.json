@@ -1,0 +1,36 @@
+{ 
+    "friendsPhoto":[
+        {
+            "id":1,
+            "img":"https://i.pinimg.com/474x/ed/15/c4/ed15c44c9ab91726c48063fefc06e624.jpg"
+        },
+        {
+            "id":2,
+            "img":"https://i.pinimg.com/736x/53/99/6e/53996e3a33ce0096ca09f14899753603.jpg"
+        },
+        {
+            "id":3,
+            "img":"https://i.pinimg.com/474x/95/f7/3a/95f73a9d19f807aa0e9d0de1fbeca916.jpg"
+        },
+        {
+            "id":4,
+            "img":"https://i.pinimg.com/474x/c2/35/c6/c235c65bf3e1d05834dabc8b98ebf952.jpg"
+        },
+        {
+            "id":5,
+            "img":"https://i.pinimg.com/474x/b2/bd/d0/b2bdd0c2e667658c1237eda914cf45d1.jpg"
+        },
+        {
+            "id":6,
+            "img":"https://i.pinimg.com/474x/82/cd/57/82cd57324a7fa2deda64c3eda172d6f9.jpg"
+        },
+        {
+            "id":7,
+            "img":"https://i.pinimg.com/474x/e0/64/ee/e064ee06b7760b25f506c4e30a634c1c.jpg"
+        },
+        {
+            "id":8,
+            "img":"https://i.pinimg.com/474x/e9/4a/b1/e94ab1e47e8abbebd4787c79c4126d78.jpg"
+        }
+    ]
+}

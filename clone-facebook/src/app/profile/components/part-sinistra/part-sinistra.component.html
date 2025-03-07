@@ -9,9 +9,11 @@
         <div class="partDestra">
             <p>Italia Cardullo</p>
             <a href="#">128 amici</a>
+            <div class="allFotoAmici">
+                <div *ngFor=" let friends of friendsPhoto" class="coverPhotoProfiles">
+                    <img [src] ="friends.img" [alt]="" width="30px" height="30px"/>
+                </div>
+            </div>
         </div>  
-        <div class="allFotoAmici">
-            
-        </div>
     </div>
 </div>

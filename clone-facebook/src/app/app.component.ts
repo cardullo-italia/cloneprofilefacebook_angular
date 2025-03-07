@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 //import { RouterOutlet } from '@angular/router';
 import { ProfileHomeComponent } from "./profile/profile-home/profile-home.component";
+import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-root',
