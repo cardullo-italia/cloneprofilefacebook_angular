@@ -6,6 +6,33 @@
     display:flex;
     flex-direction: column;
     width:max-content;
-    height:max-content;
-    background-color: #fff;
+    margin:4px;
+    padding:15px;
+    border-radius: 5px;
+    border: solid #686865 1px;
+}
+
+.inbreve .title{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.information p{
+    position: relative;
+    display:flex;
+    padding:0;
+    margin:0;
+    font-weight: 400;
+    font-size:15px;
+    flex-direction:column;
+    align-items: center;
+}
+
+.inbreve button{
+    margin-top:20px;
+    padding:10px;
+    width:450px;
+    border:0px;
+    border-radius: 5px;
+    font-weight:600;
 }
