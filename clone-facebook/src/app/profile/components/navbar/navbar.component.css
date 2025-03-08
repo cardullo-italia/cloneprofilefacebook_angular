@@ -1,0 +1,27 @@
+*{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.nav{
+    position:relative;
+    display:flex;
+    flex-direction: row;
+    gap:20px;
+}
+
+.nav p {
+    color: #686865;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.nav p a{
+    text-decoration: none;
+    color:#0866ff;
+}
+
+.allNav {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

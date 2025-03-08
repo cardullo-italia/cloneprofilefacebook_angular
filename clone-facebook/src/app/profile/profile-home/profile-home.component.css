@@ -20,5 +20,17 @@
     position:absolute;
 }
 
+.navbar{
+    position: relative;
+    top:135px;
+}
 
+.navbar hr {
+    color:grey;
+}
 
+.postHome{
+    position:relative;
+    top:165px;
+    right:400px;
+}
